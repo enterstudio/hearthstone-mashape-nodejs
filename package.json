@@ -1,0 +1,26 @@
+{
+  "name": "hearthstone-mashape",
+  "version": "0.0.5",
+  "description": "hearthstoneapi.com wrapper for Node.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Rtransat/hearthstone-mashape-nodejs.git"
+  },
+  "author": "Florent Sorel <florent.sorel@gmail.com>",
+  "license": "MIT",
+  "repository": "Rtransat/hearthstone-mashape",
+  "homepage": "http://github.com/Rtransat/hearthstone-mashape-nodejs",
+  "keywords": [
+    "hearthstone",
+    "api",
+    "mashape"
+  ],
+  "directories": {
+    "lib": "./lib"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "unirest": "^0.4.2",
+    "merge": "^1.2.0"
+  }
+}
