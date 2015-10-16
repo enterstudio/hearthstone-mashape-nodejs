@@ -8,7 +8,7 @@
   },
   "author": "Florent Sorel <florent.sorel@gmail.com>",
   "license": "MIT",
-  "repository": "Rtransat/hearthstone-mashape",
+  "repository": "Rtransat/hearthstone-mashape-nodejs",
   "homepage": "http://github.com/Rtransat/hearthstone-mashape-nodejs",
   "keywords": [
     "hearthstone",
