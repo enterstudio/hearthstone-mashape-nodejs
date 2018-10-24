@@ -17,6 +17,12 @@
   "main": "index.js",
   "dependencies": {
     "unirest": "^0.4.2",
-    "merge": "^1.2.0"
-  }
+    "merge": "^1.2.0",
+    "snyk": "^1.104.2"
+  },
+  "scripts": {
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
+  },
+  "snyk": true
 }
